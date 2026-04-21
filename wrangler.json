@@ -1,0 +1,9 @@
+"$schema": "node_modules/wrangler/config-schema.json"
+"name": "eaglercraft-servers"
+"main": "src/index.ts"
+"compatibility_date": "2024-01-15"
+"compatibility_flags": ["node.js_compact"]
+"vars": {
+  "NODE_VERSION": "20"
+}
+}
