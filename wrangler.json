@@ -1,9 +1,12 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json"
-  "name": "eaglercraftlatestversion"
-  "main": "src/index.ts"
-  "compatibility_date": "2026-01-15"
-  "compatibility_flags": ["node.js_compact"]
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "eaglercraftlatestversion",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-01-15",
+  "compatibility_flags": [
+    "node.js_compact"
+  ],
   "vars": {
-  "NODE_VERSION": "20"
+    "NODE_VERSION": "20"
+  }
 }
